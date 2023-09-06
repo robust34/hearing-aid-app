@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "731626629497",
+    "project_id": "doceo-link",
+    "storage_bucket": "doceo-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731626629497:android:ae7b22d97ac968b24067a8",
+        "android_client_info": {
+          "package_name": "com.doceo_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731626629497-dtmasnb5e7t548qdt48t62t3htmfkhpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzshNf0BVciZb7L2shrMo08Ne85JEIcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731626629497-dtmasnb5e7t548qdt48t62t3htmfkhpi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731626629497-2nespkuipi5gerce1e21k4t6hjanaav1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deco.decoe",
+                "app_store_id": "123123123"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731626629497:android:8e3596d1c8da998b4067a8",
+        "android_client_info": {
+          "package_name": "com.fullsolution.doceo_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731626629497-dtmasnb5e7t548qdt48t62t3htmfkhpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzshNf0BVciZb7L2shrMo08Ne85JEIcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731626629497-dtmasnb5e7t548qdt48t62t3htmfkhpi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731626629497-2nespkuipi5gerce1e21k4t6hjanaav1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deco.decoe",
+                "app_store_id": "123123123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
